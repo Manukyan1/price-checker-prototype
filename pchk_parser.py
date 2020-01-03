@@ -1,8 +1,24 @@
+'''This is only prototype version of my program where i created a sketch of my 
+   future program where i will check prices of AMAZON.COM '''
+
+
+
+
+
+
+
+
+
+
+
+
+
 from fbchat import *  
 from fbchat.models import *
 import time as t
 import requests as rq
 from bs4 import BeautifulSoup
+
 
 url = 'http://warmman.pythonanywhere.com/market/item/grich_cht/'
 
